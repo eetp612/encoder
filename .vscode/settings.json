@@ -1,0 +1,10 @@
+{
+    "idf.currentSetup": "/home/gopre/.espressif/v5.3.5/esp-idf",
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

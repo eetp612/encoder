@@ -1,0 +1,2 @@
+source /home/gopre/Desktop/motor-driver/build/gdbinit/symbols
+source /home/gopre/Desktop/motor-driver/build/gdbinit/connect

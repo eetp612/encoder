@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/gopre/Desktop/motor-driver/build/CMakeFiles/bootloader
+/home/gopre/Desktop/motor-driver/build/CMakeFiles/bootloader.rule
+/home/gopre/Desktop/motor-driver/build/CMakeFiles/bootloader-complete.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/gopre/Desktop/motor-driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
