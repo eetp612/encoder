@@ -1,5 +1,5 @@
 idf_component_register(
-    SRCS "motor-driver.c"
+    SRCS "encoder.c"
     INCLUDE_DIRS "."
     PRIV_REQUIRES
         micro_ros_espidf_component
